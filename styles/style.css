@@ -1,0 +1,19 @@
+.low {
+  color: green;
+}
+
+.medium {
+  color: black;
+}
+
+.high {
+  color: red;
+}
+
+#power-saving-status {
+  color: blue;
+}
+
+.aligncenter {
+  text-align: center;
+}
